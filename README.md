@@ -3,8 +3,8 @@ Webapp to predict the Air Quality Index of a region given climate conditions.
 
 
 **Motivation for this project**:\
-**Krish Naik's Air Quality Index Prediction Project**: https://www.youtube.com/watch?v=CTu0qnuMxgA. \
-**Code**: https://github.com/krishnaik06/AQI-Project
+**Krish Naik's Youtube Channel**
+
 
 
 Environment setup:
